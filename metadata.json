@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Nexus IoT Dashboard",
+  "description": "A modern, responsive dashboard to manage IoT devices, visualize sensor data, and automate controls via n8n webhooks and Gemini AI.",
+  "requestFramePermissions": []
+}
